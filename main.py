@@ -46,5 +46,5 @@ ax.plot(X, S, color="red", linewidth=2.5, linestyle="-", label="seno")
 #legenda
 ax.legend(loc='best')
 
-pl.savefig("./matplotlib01.png", dpi=800)
+pl.savefig("./grafico.png", dpi=800)
 pl.show()
